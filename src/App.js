@@ -1,13 +1,9 @@
+import AboutUS from "./pages/AboutUS";
 
 function App() {
   return (
     <div className='App'>
-      <h1>film</h1>
-      <h1>film</h1>
-      <h1>film</h1>
-      <h1>film</h1>
-      <h1>film</h1>
-      <h1>film</h1>
+      <AboutUS />
     </div>
   );
 }
