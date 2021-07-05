@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components"
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
   
@@ -41,6 +41,7 @@ h3 {
 
 h4 {
     font-weight: bold;
+    font-size: 2rem;
 }
 
 a {
